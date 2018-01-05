@@ -1,5 +1,5 @@
  
-Dinamic github's profiles list using [github's user search api]("https://developer.github.com/v3/users/#get-a-single-user") and [react sortable ]("https://github.com/clauderic/react-sortable-hoc") 
+Dinamic github's profiles list using [github's user search api](https://developer.github.com/v3/users/#get-a-single-user) and [react sortable ](https://github.com/clauderic/react-sortable-hoc) 
 
 #### Demonstration:
 
