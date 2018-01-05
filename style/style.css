@@ -1,0 +1,35 @@
+.app-layout{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+img{
+    text-align: left;
+    border-radius: 50%;
+}
+
+.user-description-container{
+    text-align: left
+}
+
+label{
+    font-size: 20px;
+}
+
+.not-found-msg {
+    font-size: 15px;
+    color: rgb(231, 97, 97);
+    text-align: center;
+}
+nav ul{ 
+    height:80%;
+    padding-top: 10px;
+}
+
+nav ul{
+    overflow:hidden; 
+    overflow-y:scroll;
+}
+
